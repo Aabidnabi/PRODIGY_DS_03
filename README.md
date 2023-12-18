@@ -1,4 +1,4 @@
-# Customer Purchase Prediction with Decision Tree Classifier
+# Project: Customer Purchase Prediction with Decision Tree Classifier
 
 ## Project Introduction:
 
@@ -69,3 +69,5 @@ The decision tree classifier demonstrated robust performance, as indicated by th
 
 # Significance of Model Performance:
 The model's predictive performance is of utmost significance for marketing strategies. Accurate predictions enable businesses to tailor their approaches, focusing resources on customers more likely to make a purchase. This not only optimizes marketing spend but also enhances customer engagement and satisfaction.
+# Contributions
+Contributions are welcome! Please check the Contribution Guidelines.
