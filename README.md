@@ -25,7 +25,7 @@ This project focuses on predicting customer purchase behavior using a decision t
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/customer-purchase-prediction.git
+   git clone https://github.com/Aabidnabi/PRODIGY_DS_03.git
    
 2. Install dependencies:
    ```
