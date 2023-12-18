@@ -34,17 +34,8 @@ This project focuses on predicting customer purchase behavior using a decision t
 3. Open and run the Jupyter notebook(s) in the Notebooks directory in sequence.
 
 # Screenshots:
-# 1. Data Preprocessing:
-
-
-# 2. Exploratory Data Analysis (EDA):
-
-
-# 3. Decision Tree Model:
+# Decision Tree Model:
 ![decision_tree](https://github.com/Aabidnabi/PRODIGY_DS_03/assets/69672207/69443102-c6dd-483f-9d32-0b83f223a948)
-
-# 4. Model Evaluation:
-
 
 # Results:
 # Key Findings:
